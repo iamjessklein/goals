@@ -21,10 +21,16 @@ Inspiration's: [Hour of Code](http://mikeconley.ca/blog/category/technology/live
 * To share our work at Bocoup
 * To provide mentorship
 * To meet some great designers and learn about how they work
+* To help to build an open design culture at Bocoup
 
 <strong>Milestones</strong>
 * Come up with a format for the podcast
 * Line up guests
 * Aim for 1 podcast a month
 
+# User Interface Design
+I am definitely stronger at UX than UI, and I would like to improve.
 
+<strong>Why?</strong> To expand my toolbox and to make better design decisions. 
+
+<strong>Milestones</strong> For starters, 1-3 UI posts on Dribbble.
