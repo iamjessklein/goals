@@ -3,10 +3,11 @@ I have always been a goal oriented person. I like to have a landmark to run towa
 
 # The List
 (in no particular order)
+
+
 1. [Health and Wellness](#health-and-wellness)
 2. [Open Design Podcast](#open-design-podcast)
 3. [User Interface Design](#user-interface-design)
-
 
 
 # Health and Wellness
