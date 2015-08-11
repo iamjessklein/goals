@@ -1,6 +1,14 @@
 # Goals
 I have always been a goal oriented person. I like to have a landmark to run towards. My good friend [Ricardo Vazquez](https://twitter.com/iamrvazquez) inspired me to openly work on my goals. There is something about the act of stating your goals, very publicly. It's almost as if the act of declaring your goals is the first step in the process towards realizing them. So, here is my declaration :) 
 
+# The List
+(in no particular order)
+1. [Health and Wellness](#health-and-wellness)
+2. [Open Design Podcast](#open-design-podcast)
+3. [User Interface Design](#user-interface-design)
+
+
+
 # Health and Wellness
 I know this isn't a professional goal, but I am including it here because I feel that it's my top priority right now. I want everything that I do to help me to feel good about myself and that includes having a work-life balance. 
 
