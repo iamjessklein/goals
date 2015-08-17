@@ -46,6 +46,22 @@ I am definitely stronger at UX than UI, and I would like to improve.
 
 # Writing
 
-# Speaking
+I would like to do more writing. This includes articles, curriculum and blogposts.
+
+<strong>Why?</strong> Writing is part of my design process and simultaneously allows me to share my experiences with other designers and lifelong learners.
+
+<strong>Milestones</strong>
+
+* Submit an article to A List Apart
+* Write a curriculum for designing for accessibility
 
 # Teaching
+
+I have somehow dropped off the teaching wagon and haven't taught one class or designed a learning activity since starting. 
+
+<strong>Why</strong> Mentoring others helps me to master a skill and gives me a platform to make this complex and sometimes confusing field accessible. 
+
+<strong>Milestones</strong>
+* Learning Activities on Accessibility 
+* Create a design workshop offering for Bocoup.
+
