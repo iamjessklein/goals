@@ -8,8 +8,8 @@ I have always been a goal oriented person. I like to have a landmark to run towa
 1. [Health and Wellness](#health-and-wellness)
 2. [Open Design](#open-design)
 3. [User Interface Design](#user-interface-design)
-4. [Writing]
-5. [Teaching]
+4. [Writing](#writing)
+5. [Teaching](#teaching)
 
 
 # Health and Wellness
