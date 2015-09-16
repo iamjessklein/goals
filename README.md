@@ -18,7 +18,7 @@ I know this isn't a professional goal, but I am including it here because I feel
 <strong>Why?</strong> I have had many ups and [downs](http://blog.jessicaklein.com/whens-it-time-for-a-change/) in the past year. This is a year to put my best foot forward and let the past be the past.
 
 <strong>Milestones:</strong>
-- complete 5k training program
+~~- complete 5k training program~~ Complete! 
 - complete 10k training program
 - sign up/ compete in 3 races by end of 2015
 
