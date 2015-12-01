@@ -47,9 +47,9 @@ I am definitely stronger at UX than UI, and I would like to improve.
 
 <strong>Why?</strong> To expand my toolbox and to make better design decisions. 
 
-<strong>Milestones</strong> 
-- 1-3 UI posts on Dribbble by end of 2015
-- Take a professional development workshop 
+<strong>Milestones</strong>
+- ~~1-3 UI posts on Dribbble by end of 2015~~ Complete!
+- ~~Take a professional development workshop~~ Complete!
 
 # Writing
 
